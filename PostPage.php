@@ -41,7 +41,7 @@
              
                 <legend>文章基本資料</legend>
                 <div>
-                    <p class="textP">作者</p>
+                    <p class="textP">是作者</p>
                     <div name="workNameBox">
                         <textarea name="writer" id="writer" cols="30" rows="2"></textarea>
                         <p class="writerP" id="writerP"><span>多位作者間用&#34;;&#34;進行隔開</span></p>
